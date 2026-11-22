@@ -123,7 +123,9 @@ class ScenarioService:
         db: Session,
         roster_id: int,
         backup_employee_id: int,
-        target_date: Optional[date] = None
+        target_date: Optional[date] = None,
+        brand_id: Optional[int] = None,
+        process_id: Optional[int] = None
     ) -> Dict[str, Any]:
         """
         Step 8 & 9:
@@ -134,13 +136,29 @@ class ScenarioService:
         if not roster:
             raise ValueError("Roster not found")
 
-        brand = db.query(Brand).filter(Brand.brand_name == "Kalyan Organics").first()
-        process = db.query(Process).filter(Process.process_name.like("%Customer Support%")).first()
+        # Resolve the exact brand/process from the conflict selected in the UI.
+        # Keep the old Kalyan Organics demo defaults only for legacy callers.
+        brand = (
+            db.query(Brand).filter(Brand.id == brand_id).first()
+            if brand_id is not None
+            else db.query(Brand).filter(Brand.brand_name == "Kalyan Organics").first()
+        )
+        process = (
+            db.query(Process).filter(Process.id == process_id).first()
+            if process_id is not None
+            else db.query(Process).filter(Process.process_name.like("%Customer Support%")).first()
+        )
         backup_emp = db.query(Employee).filter(Employee.id == backup_employee_id).first()
         if not backup_emp:
             raise ValueError("Backup employee not found")
+        if not brand:
+            raise ValueError("The selected conflict's brand could not be found")
+        if not process:
+            raise ValueError("The selected conflict's process could not be found")
 
         chosen_date = target_date or date(roster.year, roster.month, 14)
+        if chosen_date.month != roster.month or chosen_date.year != roster.year:
+            raise ValueError("The selected date does not belong to this roster")
 
         # Update or create working entry for the backup resource
         backup_entry = db.query(RosterEntry).filter(
@@ -193,7 +211,7 @@ class ScenarioService:
         # Check if the Kalyan Organics conflict on that date is now resolved
         remaining_target_conflicts = [
             c for c in summary.conflicts
-            if c.date == chosen_date and c.brand_name == "Kalyan Organics" and c.severity == "CRITICAL"
+            if c.date == chosen_date and c.brand_id == brand.id and c.process_id == process.id and c.severity == "CRITICAL"
         ]
 
         return {
@@ -205,5 +223,9 @@ class ScenarioService:
             "date": chosen_date.isoformat(),
             "conflict_resolved": len(remaining_target_conflicts) == 0,
             "remaining_critical_conflicts": summary.critical_count,
-            "message": f"Successfully assigned {backup_emp.full_name} to cover {brand.brand_name}. Conflict resolved!"
+            "message": (
+                f"Successfully assigned {backup_emp.full_name} to {brand.brand_name} — {process.process_name}."
+                if len(remaining_target_conflicts) == 0
+                else f"Assignment saved for {backup_emp.full_name}, but {len(remaining_target_conflicts)} critical conflict(s) remain for {brand.brand_name} — {process.process_name}."
+            )
         }
