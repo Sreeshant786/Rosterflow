@@ -33,11 +33,15 @@ def scenario_step_3(
     roster_id: int = Body(...),
     backup_employee_id: int = Body(...),
     target_date: Optional[str] = Body(None),
+    brand_id: Optional[int] = Body(None),
+    process_id: Optional[int] = Body(None),
     db: Session = Depends(get_db)
 ):
-    """Step 3: Assigns eligible backup resource & verifies conflict resolution."""
+    """Step 3: Assigns eligible backup resource to the selected brand/process/date."""
     parsed_date = date.fromisoformat(target_date) if target_date else None
-    return ScenarioService.run_step_3_assign_backup(db, roster_id, backup_employee_id, parsed_date)
+    return ScenarioService.run_step_3_assign_backup(
+        db, roster_id, backup_employee_id, parsed_date, brand_id, process_id
+    )
 
 @router.post("/reset")
 def reset_seed(db: Session = Depends(get_db)):
