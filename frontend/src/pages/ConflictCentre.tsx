@@ -53,18 +53,32 @@ export const ConflictCentre: React.FC = () => {
 
       // Get latest roster id
       const rList = await api.get<Roster[]>('/rosters');
-      const rosterId = rList.data[0]?.id;
-      if (!rosterId) throw new Error('No active roster found');
+      const conflictDate = new Date(`${conflict.date}T00:00:00`);
+      const roster = rList.data.find(
+        (item) =>
+          item.month === conflictDate.getMonth() + 1 &&
+          item.year === conflictDate.getFullYear()
+      );
+      if (!roster) throw new Error(`No roster found for ${conflict.date}`);
+      if (!conflict.brand_id || !conflict.process_id) {
+        throw new Error('This conflict is missing its brand or process ID. Refresh the page and try again.');
+      }
 
-      // Use scenario step 3 or manual entry update to assign backup
-      await api.post('/scenarios/step3', {
-        roster_id: rosterId,
+      // Assign the backup to the exact brand, process and date shown on this conflict.
+      const response = await api.post('/scenarios/step3', {
+        roster_id: roster.id,
         backup_employee_id: backupEmployeeId,
         target_date: conflict.date,
+        brand_id: conflict.brand_id,
+        process_id: conflict.process_id,
       });
 
-      setSuccessMsg(`Successfully assigned ${backupEmployeeName} to cover ${conflict.brand_name || 'brand'}. Conflict resolved!`);
       await fetchConflicts();
+      if (response.data?.conflict_resolved) {
+        setSuccessMsg(`Successfully assigned ${backupEmployeeName} to ${conflict.brand_name} — ${conflict.process_name}. Conflict resolved.`);
+      } else {
+        setErrorMsg(response.data?.message || 'Assignment was saved, but the conflict is still active. Review the roster and eligibility rules.');
+      }
     } catch (err: any) {
       setErrorMsg(err.response?.data?.detail || 'Failed to assign backup');
     } finally {
