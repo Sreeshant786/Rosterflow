@@ -1,0 +1,961 @@
+Date,Day,Employee Code,Employee Name,Pod,Brand,Process,Status,Shift Start,Shift End,Notes
+2026-11-01,Sunday,EMP001,Rahul Sharma,Alpha Pod,-,-,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP002,Priya Nair,Beta Pod,-,-,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP004,Ananya Iyer,Delta Pod,-,-,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP016,Ishita Banerjee,Beta Pod,-,-,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP018,Tanvi Bhat,Beta Pod,-,-,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP022,Swati Reddy,Gamma Pod,-,-,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP024,Deepika Pillai,Gamma Pod,-,-,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-01,Sunday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Public Holiday,,,Diwali (Deepavali)
+2026-11-01,Sunday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Public Holiday,,,Diwali (Deepavali)
+2026-11-02,Monday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-02,Monday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-02,Monday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-02,Monday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-02,Monday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-02,Monday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-02,Monday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-02,Monday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-02,Monday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-02,Monday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-02,Monday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-02,Monday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-02,Monday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-02,Monday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-02,Monday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-02,Monday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-02,Monday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-03,Tuesday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-03,Tuesday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-03,Tuesday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-03,Tuesday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-03,Tuesday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-03,Tuesday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-03,Tuesday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-03,Tuesday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-03,Tuesday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-03,Tuesday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-03,Tuesday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-03,Tuesday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-03,Tuesday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-03,Tuesday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-03,Tuesday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-03,Tuesday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-03,Tuesday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-04,Wednesday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-04,Wednesday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-04,Wednesday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-04,Wednesday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-04,Wednesday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-04,Wednesday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-04,Wednesday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-04,Wednesday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-04,Wednesday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-04,Wednesday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-04,Wednesday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-04,Wednesday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-04,Wednesday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-04,Wednesday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-04,Wednesday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-04,Wednesday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-04,Wednesday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-05,Thursday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-05,Thursday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-05,Thursday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-05,Thursday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-05,Thursday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-05,Thursday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-05,Thursday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-05,Thursday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-05,Thursday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-05,Thursday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-05,Thursday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-05,Thursday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-05,Thursday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-05,Thursday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-05,Thursday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-05,Thursday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-05,Thursday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-06,Friday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-06,Friday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-06,Friday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-06,Friday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-06,Friday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-06,Friday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-06,Friday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-06,Friday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-06,Friday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-06,Friday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-06,Friday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-06,Friday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-06,Friday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-06,Friday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-06,Friday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-06,Friday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-06,Friday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-07,Saturday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-07,Saturday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-07,Saturday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-07,Saturday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-07,Saturday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-07,Saturday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-07,Saturday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-07,Saturday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-07,Saturday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-07,Saturday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-07,Saturday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-07,Saturday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-07,Saturday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-07,Saturday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-07,Saturday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-07,Saturday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-07,Saturday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-08,Sunday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-08,Sunday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-08,Sunday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Weekly Off,,,Scheduled rest day
+2026-11-08,Sunday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Weekly Off,,,Scheduled rest day
+2026-11-09,Monday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-09,Monday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-09,Monday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-09,Monday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-09,Monday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-09,Monday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-09,Monday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-09,Monday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-09,Monday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-09,Monday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-09,Monday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-09,Monday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-09,Monday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-09,Monday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-09,Monday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-09,Monday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-09,Monday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-10,Tuesday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-10,Tuesday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-10,Tuesday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-10,Tuesday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-10,Tuesday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Leave,,,Approved PLANNED_LEAVE
+2026-11-10,Tuesday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-10,Tuesday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-10,Tuesday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-10,Tuesday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-10,Tuesday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-10,Tuesday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-10,Tuesday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-10,Tuesday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-10,Tuesday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-10,Tuesday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-10,Tuesday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-10,Tuesday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-10,Tuesday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-11,Wednesday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-11,Wednesday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-11,Wednesday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-11,Wednesday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-11,Wednesday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Leave,,,Approved PLANNED_LEAVE
+2026-11-11,Wednesday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-11,Wednesday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-11,Wednesday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-11,Wednesday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-11,Wednesday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-11,Wednesday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-11,Wednesday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-11,Wednesday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-11,Wednesday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-11,Wednesday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-11,Wednesday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-11,Wednesday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-11,Wednesday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-12,Thursday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-12,Thursday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-12,Thursday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-12,Thursday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-12,Thursday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Leave,,,Approved PLANNED_LEAVE
+2026-11-12,Thursday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-12,Thursday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-12,Thursday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-12,Thursday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-12,Thursday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-12,Thursday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-12,Thursday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-12,Thursday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-12,Thursday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-12,Thursday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-12,Thursday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-12,Thursday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-12,Thursday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-13,Friday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-13,Friday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-13,Friday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-13,Friday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-13,Friday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-13,Friday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-13,Friday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-13,Friday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-13,Friday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-13,Friday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-13,Friday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-13,Friday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-13,Friday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-13,Friday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-13,Friday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-13,Friday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-13,Friday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-14,Saturday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-14,Saturday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-14,Saturday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-14,Saturday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-14,Saturday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Unavailable,09:00,18:00,Marked unavailable by manager
+2026-11-14,Saturday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-14,Saturday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP014,Pooja Hegde,Beta Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Backup deployed to cover for Kalyan Organics
+2026-11-14,Saturday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-14,Saturday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-14,Saturday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-14,Saturday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-14,Saturday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-14,Saturday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-14,Saturday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-14,Saturday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-14,Saturday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-14,Saturday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-14,Saturday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-15,Sunday,EMP001,Rahul Sharma,Alpha Pod,-,-,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP002,Priya Nair,Beta Pod,-,-,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP004,Ananya Iyer,Delta Pod,-,-,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP016,Ishita Banerjee,Beta Pod,-,-,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP018,Tanvi Bhat,Beta Pod,-,-,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP022,Swati Reddy,Gamma Pod,-,-,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP024,Deepika Pillai,Gamma Pod,-,-,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-15,Sunday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Public Holiday,,,Guru Nanak Jayanti
+2026-11-15,Sunday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Public Holiday,,,Guru Nanak Jayanti
+2026-11-16,Monday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-16,Monday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-16,Monday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-16,Monday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-16,Monday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-16,Monday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-16,Monday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-16,Monday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-16,Monday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-16,Monday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-16,Monday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-16,Monday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-16,Monday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-16,Monday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-16,Monday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-16,Monday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-16,Monday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-17,Tuesday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-17,Tuesday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-17,Tuesday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-17,Tuesday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-17,Tuesday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-17,Tuesday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-17,Tuesday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-17,Tuesday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-17,Tuesday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-17,Tuesday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-17,Tuesday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-17,Tuesday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-17,Tuesday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-17,Tuesday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-17,Tuesday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-17,Tuesday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-17,Tuesday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-18,Wednesday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-18,Wednesday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-18,Wednesday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-18,Wednesday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-18,Wednesday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-18,Wednesday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-18,Wednesday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-18,Wednesday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-18,Wednesday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-18,Wednesday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Comp-Off,,,Approved COMP_OFF
+2026-11-18,Wednesday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-18,Wednesday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-18,Wednesday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-18,Wednesday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-18,Wednesday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-18,Wednesday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-18,Wednesday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-19,Thursday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-19,Thursday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-19,Thursday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-19,Thursday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-19,Thursday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-19,Thursday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-19,Thursday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-19,Thursday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-19,Thursday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-19,Thursday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-19,Thursday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-19,Thursday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-19,Thursday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-19,Thursday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-19,Thursday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-19,Thursday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-19,Thursday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-20,Friday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-20,Friday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-20,Friday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-20,Friday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-20,Friday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-20,Friday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-20,Friday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-20,Friday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-20,Friday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-20,Friday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-20,Friday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-20,Friday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-20,Friday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-20,Friday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-20,Friday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-20,Friday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-20,Friday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-21,Saturday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-21,Saturday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-21,Saturday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-21,Saturday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-21,Saturday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-21,Saturday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-21,Saturday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-21,Saturday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-21,Saturday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-21,Saturday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-21,Saturday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-21,Saturday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-21,Saturday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-21,Saturday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-21,Saturday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-21,Saturday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-21,Saturday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-22,Sunday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-22,Sunday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-22,Sunday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Weekly Off,,,Scheduled rest day
+2026-11-22,Sunday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Weekly Off,,,Scheduled rest day
+2026-11-23,Monday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-23,Monday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-23,Monday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-23,Monday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-23,Monday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-23,Monday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-23,Monday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-23,Monday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-23,Monday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-23,Monday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-23,Monday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-23,Monday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-23,Monday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-23,Monday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-23,Monday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-23,Monday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-23,Monday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-24,Tuesday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-24,Tuesday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-24,Tuesday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-24,Tuesday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-24,Tuesday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-24,Tuesday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-24,Tuesday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-24,Tuesday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-24,Tuesday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-24,Tuesday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-24,Tuesday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-24,Tuesday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-24,Tuesday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-24,Tuesday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-24,Tuesday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-24,Tuesday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-24,Tuesday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-25,Wednesday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-25,Wednesday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-25,Wednesday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-25,Wednesday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-25,Wednesday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Unavailable,,,Marked unavailable
+2026-11-25,Wednesday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-25,Wednesday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-25,Wednesday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-25,Wednesday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-25,Wednesday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-25,Wednesday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-25,Wednesday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-25,Wednesday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-25,Wednesday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-25,Wednesday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-25,Wednesday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-25,Wednesday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-25,Wednesday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-26,Thursday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-26,Thursday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-26,Thursday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-26,Thursday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-26,Thursday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-26,Thursday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-26,Thursday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-26,Thursday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-26,Thursday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-26,Thursday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-26,Thursday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-26,Thursday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-26,Thursday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-26,Thursday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-26,Thursday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-26,Thursday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-26,Thursday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-27,Friday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-27,Friday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-27,Friday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-27,Friday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-27,Friday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-27,Friday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-27,Friday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-27,Friday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-27,Friday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-27,Friday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-27,Friday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-27,Friday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-27,Friday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-27,Friday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-27,Friday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-27,Friday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-27,Friday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-28,Saturday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-28,Saturday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-28,Saturday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-28,Saturday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-28,Saturday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-28,Saturday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-28,Saturday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-28,Saturday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-28,Saturday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-28,Saturday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-28,Saturday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-28,Saturday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-28,Saturday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-28,Saturday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-28,Saturday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-28,Saturday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-28,Saturday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-29,Sunday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-29,Sunday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-29,Sunday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Weekly Off,,,Scheduled rest day
+2026-11-29,Sunday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Weekly Off,,,Scheduled rest day
+2026-11-30,Monday,EMP001,Rahul Sharma,Alpha Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-30,Monday,EMP002,Priya Nair,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-30,Monday,EMP003,Vikram Malhotra,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-30,Monday,EMP004,Ananya Iyer,Delta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-30,Monday,EMP005,Arjun Patel,Alpha Pod,Kalyan Organics,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP006,Sneha Rao,Alpha Pod,Zouk Lifestyle,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP007,Rohan Gupta,Alpha Pod,Snackible India,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP008,Kavya Menon,Alpha Pod,Bombay Shaving Co.,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP009,Aditya Verma,Alpha Pod,Mocobara Gear,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP010,Meera Joshi,Alpha Pod,Slurrp Farm,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP011,Karan Singhania,Alpha Pod,The Whole Truth,Customer Support (CS),Weekly Off,,,Scheduled rest day
+2026-11-30,Monday,EMP012,Divya Deshmukh,Beta Pod,The Whole Truth,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-30,Monday,EMP013,Siddharth Sen,Beta Pod,Foxtale Skincare,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP014,Pooja Hegde,Beta Pod,The Whole Truth,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP015,Amitabh Roy,Beta Pod,Open Secret,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP016,Ishita Banerjee,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-30,Monday,EMP017,Gaurav Kulkarni,Beta Pod,Kapiva Ayurveda,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP018,Tanvi Bhat,Beta Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-30,Monday,EMP019,Nikhil Chopra,Gamma Pod,Bombay Shaving Co.,Non-Delivery Report (NDR),Working,09:30,18:30,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-30,Monday,EMP020,Ritu Saxena,Gamma Pod,Bombay Shaving Co.,Abandoned Cart Conversion (ACC),Working,10:00,19:00,Covering EVERYDAY_EXCEPT_HOLIDAYS
+2026-11-30,Monday,EMP021,Varun Nambiar,Gamma Pod,True Elements,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP022,Swati Reddy,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-30,Monday,EMP023,Harsh Vardhan,Gamma Pod,Beco Eco,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP024,Deepika Pillai,Gamma Pod,-,-,Weekly Off,,,Scheduled rest day
+2026-11-30,Monday,EMP025,Manish Tiwari,Gamma Pod,The Whole Truth,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-30,Monday,EMP026,Neha Kapoor,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP027,Rajesh Pillai,Delta Pod,Plum Goodness,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP028,Shreya Mukherjee,Delta Pod,Wakefit Home,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP029,Abhishek Yadav,Delta Pod,SkinKraft,Customer Support (CS),Working,09:00,18:00,Covering EVERYDAY
+2026-11-30,Monday,EMP030,Bhavna Mishra,Delta Pod,Wakefit Home,Retention,Working,10:00,19:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-30,Monday,EMP031,Tarun Khanna,Delta Pod,Kalyan Organics,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
+2026-11-30,Monday,EMP032,Zoya Farooqui,Delta Pod,Zouk Lifestyle,Other Operations,Working,09:00,18:00,Covering SUNDAYS_AND_HOLIDAYS_OFF
